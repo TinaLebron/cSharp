@@ -1,0 +1,7 @@
+C:\Users\Tina Lebron\source\csharp\windowsforms\IntroductiontoProgrammingHomework8.30\IntroductiontoProgrammingHomework8.30\bin\Debug\IntroductiontoProgrammingHomework8.30.exe.config
+C:\Users\Tina Lebron\source\csharp\windowsforms\IntroductiontoProgrammingHomework8.30\IntroductiontoProgrammingHomework8.30\bin\Debug\IntroductiontoProgrammingHomework8.30.exe
+C:\Users\Tina Lebron\source\csharp\windowsforms\IntroductiontoProgrammingHomework8.30\IntroductiontoProgrammingHomework8.30\bin\Debug\IntroductiontoProgrammingHomework8.30.pdb
+C:\Users\Tina Lebron\source\csharp\windowsforms\IntroductiontoProgrammingHomework8.30\IntroductiontoProgrammingHomework8.30\obj\Debug\IntroductiontoProgrammingHomework8.30.csprojAssemblyReference.cache
+C:\Users\Tina Lebron\source\csharp\windowsforms\IntroductiontoProgrammingHomework8.30\IntroductiontoProgrammingHomework8.30\obj\Debug\IntroductiontoProgrammingHomework8.30.csproj.CoreCompileInputs.cache
+C:\Users\Tina Lebron\source\csharp\windowsforms\IntroductiontoProgrammingHomework8.30\IntroductiontoProgrammingHomework8.30\obj\Debug\IntroductiontoProgrammingHomework8.30.exe
+C:\Users\Tina Lebron\source\csharp\windowsforms\IntroductiontoProgrammingHomework8.30\IntroductiontoProgrammingHomework8.30\obj\Debug\IntroductiontoProgrammingHomework8.30.pdb

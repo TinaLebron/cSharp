@@ -1,0 +1,7 @@
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb

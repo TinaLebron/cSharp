@@ -1,0 +1,20 @@
+C:\Users\iii\Documents\程式概論\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\iii\Documents\程式概論\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\iii\Documents\程式概論\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\iii\Documents\程式概論\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\iii\Documents\程式概論\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\iii\Documents\程式概論\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\iii\Documents\程式概論\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\iii\Documents\林姿儀\程式概論\pullGit\Course\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\iii\Documents\林姿儀\程式概論\pullGit\Course\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\iii\Documents\林姿儀\程式概論\pullGit\Course\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\iii\Documents\林姿儀\程式概論\pullGit\Course\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+C:\Users\iii\Documents\林姿儀\程式概論\pullGit\Course\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\iii\Documents\林姿儀\程式概論\pullGit\Course\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\iii\Documents\林姿儀\程式概論\pullGit\Course\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

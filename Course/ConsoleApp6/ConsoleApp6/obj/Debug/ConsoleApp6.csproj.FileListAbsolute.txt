@@ -1,0 +1,14 @@
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojResolveAssemblyReference.cache
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\iii\Documents\林姿儀\程式概論\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\Tina Lebron\source\csharp\Course\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
